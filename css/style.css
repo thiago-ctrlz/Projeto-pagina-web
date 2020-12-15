@@ -1,0 +1,45 @@
+
+body{
+  font-family: 'Josefin Sans', sans-serif; 
+}
+
+.navbar{
+background-color: #fff017c9;
+
+}
+
+.quemsomos{
+  background-color: rgb(173, 80, 80);
+  color: aliceblue;
+  }
+
+.margin{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.parceiros{
+  background-color: rgb(51, 179, 184);
+  color: aliceblue;
+  box-shadow: rgb(0, 0, 0);
+}
+
+.bg-footer{
+  background-color: rgb(189, 189, 189);
+  color: aliceblue;
+}
+
+.buttom1:hover {
+  background-color: rgb(255, 136, 0);
+  color: white;
+}
+
+.buttom2:hover {
+  background-color: rgb(255, 136, 0);
+  color: white;
+}
+
+.buttom3:hover {
+  background-color: rgb(255, 136, 0);
+  color: white;
+}
